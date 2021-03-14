@@ -6,6 +6,7 @@ git clone https://github.com/RAAvenger/MabahesVizhe2-GitCourse
 ```
 سپس در این مسیر یک فایل با نام خودتان ایجاد کنید
 ```powershell
+#powershell
 New-Item "رضا ادیبی سده"
 ```
 تغییرات را استیج و کامیت کنید
@@ -15,4 +16,4 @@ git commit -m "<ex: Reza Adibi>"
 ```
 
 ### مهلت
-ساعت 00:00 روز دوشنبه 25 اسفندماه 1399
+ساعت 23:59 روز یکشنبه 24 اسفندماه 1399
