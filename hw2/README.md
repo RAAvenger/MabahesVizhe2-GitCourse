@@ -1,7 +1,7 @@
 # تکلیف دوم
 
 ابتدا وارد [مخزن درس](https://github.com/RAAvenger/MabahesVizhe2-GitCourse) شوید و سپس مخزن را بر روی اکانت خود فورک کنید
-![alt text](https://github.com/RAAvenger/MabahesVizhe2-GitCourse/blob/master/hw2/img1.jpg?raw=true)
+![alt text](https://github.com/RAAvenger/MabahesVizhe2-GitCourse/blob/main/hw2/img1.jpg?raw=true)
 سپس آدرس مخزن ایجاد شده در اکانتتان را کپی کرده و با دستور 
 ```git
 git remote rm origin
