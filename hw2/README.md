@@ -8,7 +8,8 @@ git remote rm origin
 git remote add origin <repo link>
 ```
 آدرس ریموت خود را جایگزین آدرس ریموت اصلی مخزنی که در تکلیف اول روی سیستم خود کلون کرده بودید کنید.
-__سپس با دستور 
+<br />
+سپس با دستور 
 ```git
 git push
 ```
@@ -17,8 +18,10 @@ git push
 ![alt text](https://github.com/RAAvenger/MabahesVizhe2-GitCourse/blob/main/hw2/img2.jpg?raw=true)
 ![alt text](https://github.com/RAAvenger/MabahesVizhe2-GitCourse/blob/main/hw2/img3.jpg?raw=true)
 ![alt text](https://github.com/RAAvenger/MabahesVizhe2-GitCourse/blob/main/hw2/img4.jpg?raw=true)
-##پینوشت
+<br />
+پینوشت##
 - درصورتی که با درخواست ادغام شما موافقت نشد تغییرات خواسته شده را روی مخزن خود ایجاد کنید 
-- در صورت نیاز از [این](https://stackoverflow.com/questions/14906187/how-to-submit-a-pull-request-from-a-cloned-repo) لینک برای رفع اشکال استفاده کنید__
+- در صورت نیاز از [این](https://stackoverflow.com/questions/14906187/how-to-submit-a-pull-request-from-a-cloned-repo) لینک برای رفع اشکال استفاده کنید
+<br />
 ##مهلت
 ساعت 23:59 روز پنجشنبه 28 اسفند ماه 1399
