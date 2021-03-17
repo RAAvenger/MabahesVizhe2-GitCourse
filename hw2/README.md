@@ -13,7 +13,6 @@ git remote add origin <repo link>
 git push
 ```
 کامیتی را که در تکلیف اول ایجاد کرده بودید برای سرور ارسال کنید.
-در نهایت یک pull request برای ادغام مخزن خود با [مخزن درس](https://github.com/RAAvenger/MabahesVizhe2-GitCourse) ایجاد کنید
-`[ پ.ن: درصورتی که با درخواست ادغام شما موافقت نشد تغییرات خواسته شده را روی مخزن خود ایجاد کنید ]`
-
-در صورت نیاز از [این](https://stackoverflow.com/questions/14906187/how-to-submit-a-pull-request-from-a-cloned-repo) لینک برای رفع اشکال استفاده کنید
+در نهایت یک پول ریکوئست برای ادغام مخزن خود با [مخزن درس](https://github.com/RAAvenger/MabahesVizhe2-GitCourse) ایجاد کنید
+- `[ پ.ن: درصورتی که با درخواست ادغام شما موافقت نشد تغییرات خواسته شده را روی مخزن خود ایجاد کنید ]`
+- در صورت نیاز از [این](https://stackoverflow.com/questions/14906187/how-to-submit-a-pull-request-from-a-cloned-repo) لینک برای رفع اشکال استفاده کنید
