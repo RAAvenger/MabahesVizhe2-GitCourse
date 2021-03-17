@@ -20,8 +20,8 @@ git push
 ![alt text](https://github.com/RAAvenger/MabahesVizhe2-GitCourse/blob/main/hw2/img4.jpg?raw=true)
 <br />
 ### پینوشت 
-- `درصورتی که با درخواست ادغام شما موافقت نشد تغییرات خواسته شده را روی مخزن خود ایجاد کنید` 
-- `در صورت نیاز از [این](https://stackoverflow.com/questions/14906187/how-to-submit-a-pull-request-from-a-cloned-repo) لینک برای رفع اشکال استفاده کنید`
+- در صورتی که با درخواست ادغام شما موافقت نشد تغییرات خواسته شده را روی مخزن خود ایجاد کن 
+- در صورت نیاز از [این](https://stackoverflow.com/questions/14906187/how-to-submit-a-pull-request-from-a-cloned-repo) لینک برای رفع اشکال استفاده کنید
 
 ##  مهلت
 ساعت 23:59 روز پنجشنبه 28 اسفند ماه 1399
