@@ -16,11 +16,12 @@ git remote add origin <repo link>
 
 آدرس ریموت خود را جایگزین آدرس ریموت اصلی مخزنی که در تکلیف اول روی سیستم خود کلون کرده بودید کنید.
 <br />
-سپس با دستور 
+سپس با دستورات 
 
 <div dir="ltr" align='left'>
   
 ```git
+git pull
 git push
 ```
 </div>
