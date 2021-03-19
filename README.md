@@ -1,3 +1,5 @@
+<div dir="rtl" align='right'>
+  
 # مباحث ویژه‌ی 2
 ## آموزش گیت
 اسلایدها و مطالب مربوطه در این مخزن قرار داده می‌شوند
@@ -8,3 +10,5 @@
 ### تکالیف
 - [تکلیف اول](https://github.com/RAAvenger/MabahesVizhe2-GitCourse/tree/main/hw1)
 - [تکلیف دوم](https://github.com/RAAvenger/MabahesVizhe2-GitCourse/tree/main/hw2)
+
+</div>
